@@ -8,9 +8,6 @@
   <a href="mailto:your-email@example.com"> <!-- Replace with your email -->
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/your-twitter"> <!-- Replace with your Twitter, or remove -->
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 </p>
 
 <p align="center">
@@ -60,7 +57,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/your-github-username"> <!-- Replace your-github-username -->
+  <a href="https://github.com/BoutebbakhChahrazed"> <!-- Replace your-github-username -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Chahrazed's GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
   </a>
