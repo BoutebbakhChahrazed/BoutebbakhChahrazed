@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer & Data Science | AI Master's Student</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"> <!-- Replace with your LinkedIn -->
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/chahrazed-b-a6a8a6256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)/"> <!-- Replace with your LinkedIn -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:chahrazed.boutebbakh@univ-constantine2.dz"> <!-- Replace with your email -->
