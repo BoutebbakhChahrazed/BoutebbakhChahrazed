@@ -2,27 +2,27 @@
 <h3 align="center">A Passionate Web Developer & Data Science | AI Master's Student</h3>
 
 <p align="center">
-  <a href="[[https://www.linkedin.com/in/chahrazed-b-a6a8a6256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]/"> <!-- Replace with your LinkedIn -->
+  <a href="https://www.linkedin.com/in/chahrazed-b-a6a8a6256/"> <!-- Fixed LinkedIn URL -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:chahrazed.boutebbakh@univ-constantine2.dz"> <!-- Replace with your email -->
+  <a href="mailto:chahrazed.boutebbakh@univ-constantine2.dz">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BoutebbakhChahrazed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> <!-- Replace your-github-username -->
+  <img src="https://komarev.com/ghpvc/?username=BoutebbakhChahrazed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 I’m currently pursuing my **Master's 2 in Data Science and Artificial Intelligence**.
+- 🎓 I'm currently pursuing my **Master's 2 in Data Science and Artificial Intelligence**.
 - 💻 A skilled **Full-Stack Web Developer** with a focus on modern technologies.
-- 🔭 I’m currently working on **deepening my expertise in AI models and building scalable web applications**.
-- 🌱 I’m continuously learning about **Advanced Machine Learning, Deep Learning, and Cloud Technologies**.
-- 👯 I’m looking to collaborate on **innovative web projects and exciting AI research**.
+- 🔭 I'm currently working on **deepening my expertise in AI models and building scalable web applications**.
+- 🌱 I'm continuously learning about **Advanced Machine Learning, Deep Learning, and Cloud Technologies**.
+- 👯 I'm looking to collaborate on **innovative web projects and exciting AI research**.
 - 💬 Ask me about **React, Spring Boot, JavaScript, or anything related to web development**.
 - ⚡ Fun fact: **I believe the best code is not just functional, but also elegant and efficient.**
 
@@ -57,12 +57,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/BoutebbakhChahrazed"> <!-- Replace your-github-username -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Chahrazed's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+  <a href="https://github.com/BoutebbakhChahrazed">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoutebbakhChahrazed&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Chahrazed's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoutebbakhChahrazed&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
   </a>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoutebbakhChahrazed&theme=radical&hide_border=true" alt="GitHub Streak"/> <!-- Replace your-github-username -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoutebbakhChahrazed&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
