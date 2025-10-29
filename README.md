@@ -23,8 +23,8 @@
 - 🔭 I'm currently working on **deepening my expertise in AI models and building scalable web applications**.
 - 🌱 I'm continuously learning about **Advanced Machine Learning, Deep Learning, and Cloud Technologies**.
 - 👯 I'm looking to collaborate on **innovative web projects and exciting AI research**.
-- 💬 Ask me about **React, Spring Boot, JavaScript, or anything related to web development**.
-- ⚡ Fun fact: **I believe the best code is not just functional, but also elegant and efficient.**
+- 💬 Ask me about **React, Spring Boot, JavaScript, or anything related to web development , Datascience and ai **.
+
 
 ---
 
