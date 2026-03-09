@@ -18,11 +18,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing my **Master's 2 in Data Science and Artificial Intelligence**.
-- 💻 A skilled **Full-Stack Web Developer** with a focus on modern technologies.
-- 🔭 I'm currently working on **deepening my expertise in AI models and building scalable web applications**.
-- 🌱 I'm continuously learning about **Advanced Machine Learning, Deep Learning, and Cloud Technologies**.
-- 👯 I'm looking to collaborate on **innovative web projects and exciting AI research**.
+-  I'm currently pursuing my **Master's 2 in Data Science and Artificial Intelligence**.
+-  A skilled **Full-Stack Web Developer** with a focus on modern technologies.
+-  I'm currently working on **deepening my expertise in AI models and building scalable web applications**.
+-  I'm continuously learning about **Advanced Machine Learning, Deep Learning, and Cloud Technologies**.
+-  I'm looking to collaborate on **innovative web projects and exciting AI research**.
 - 💬 Ask me about **React, Spring Boot, JavaScript, or anything related to web development , Datascience and ai **.
 
 
